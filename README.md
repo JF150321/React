@@ -1,4 +1,4 @@
-Lien du projet : https://projetreact.netlify.app
+Lien du projet : https://projetreactjf.netlify.app
 
 
 Premier projet suivit étape par étape durant mon premier cour sur React.
